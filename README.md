@@ -94,10 +94,10 @@ interests: [Generative AI, Cloud-Native Architecture, Serverless Computing, AI I
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/michaelwolowyk/" target="_blank">
+  <a href="https://www.linkedin.com/in/michael-wolowyk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/mwolowyk" target="_blank">
+  <a href="https://github.com/mwolowyk-cap" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
