@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there I'm Michael 👋
 
+
+**Cloud Solutions Architect** with 12+ years of experience designing and delivering cutting-edge microservices and cloud-native solutions across diverse industries. Proven expertise in leading **cloud migrations**, architecting **AI-driven platforms**, and mentoring cross-functional teams. Currently at Capgemini, specializing in **Google Cloud Platform** and **AI integration** with a track record of delivering 25-40% performance improvements through innovative cloud-native architectures.
 
 ```yaml
 role: Cloud Solutions Architect & Delivery Architect
@@ -9,8 +11,6 @@ experience: 12+ years in Cloud Architecture & Microservices Development
 specialization: [GCP, Microservices, AI-Driven Solutions, Cloud Migrations, DevOps Automation]
 interests: [Generative AI, Cloud-Native Architecture, Serverless Computing, AI Innovation]
 ```
-
-**Cloud Solutions Architect** with 12+ years of experience designing and delivering cutting-edge microservices and cloud-native solutions across diverse industries. Proven expertise in leading **cloud migrations**, architecting **AI-driven platforms**, and mentoring cross-functional teams. Currently at Capgemini, specializing in **Google Cloud Platform** and **AI integration** with a track record of delivering 25-40% performance improvements through innovative cloud-native architectures.
 
 ## 🛠️ Technology Stack
 
